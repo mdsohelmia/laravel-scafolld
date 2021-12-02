@@ -6,7 +6,7 @@
         "laravel",
         "Inertia",
         "Vuejs",
-        "kodezam"
+        "phpstan"
     ],
     "license": "MIT",
     "type": "project",
@@ -71,6 +71,6 @@
         "preferred-install": "dist",
         "sort-packages": true
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true
 }
