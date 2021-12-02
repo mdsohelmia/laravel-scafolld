@@ -1,6 +1,5 @@
 {
     "name": "sohel1999/laravel",
-    "type": "project",
     "description": "Laravel Quick scaffold modern single app.",
     "keywords": [
         "framework",
@@ -10,6 +9,7 @@
         "kodezam"
     ],
     "license": "MIT",
+    "type": "project",
     "require": {
         "php": "^8.0",
         "fruitcake/laravel-cors": "^2.0",
@@ -71,6 +71,6 @@
         "preferred-install": "dist",
         "sort-packages": true
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
